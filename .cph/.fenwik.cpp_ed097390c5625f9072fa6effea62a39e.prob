@@ -1,0 +1,1 @@
+{"name":"Local: fenwik","url":"c:\\Users\\dhany\\c++\\contest\\segement tree\\fenwik.cpp","tests":[{"id":1720522573354,"input":"5 4\n3 4 5 6 3\n2 2 4\n1 2 6\n2 2 4\n2 1 5","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\dhany\\c++\\contest\\segement tree\\fenwik.cpp","group":"local","local":true}
